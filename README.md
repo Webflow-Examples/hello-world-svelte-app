@@ -5,6 +5,8 @@ A **Svelte 5 + Vite** starter for [**Webflow Cloud**](https://webflow.com/cloud)
 > Looking for the bindings variant (D1, R2, KV)?
 > See [`hello-world-svelte-app-bindings`](https://github.com/Webflow-Examples/hello-world-svelte-app-bindings).
 
+[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-svelte-app)
+
 ## Requirements
 
 - Node **20+**
