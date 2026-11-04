@@ -1,4 +1,4 @@
-# hello-world-svelte-app-bindings
+# hello-world-svelte-app
 
 A **Svelte 5 + Vite** starter for [**Webflow Cloud**](https://webflow.com/cloud) with Cloudflare bindings (D1, R2, KV) wired in.
 
@@ -7,10 +7,10 @@ At deploy time, Webflow Cloud provisions the configured services and injects the
 > Looking for the plain vanilla variant (no bindings)?
 > See [`hello-world-svelte-app`](https://github.com/Webflow-Examples/hello-world-svelte-app).
 
-[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-svelte-app-bindings)
+[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-svelte-app/tree/v5-with-bindings)
 
 > **Sentry / observability example:** the
-> [`feat/sentry-integration-example`](https://github.com/Webflow-Examples/hello-world-svelte-app-bindings/tree/feat/sentry-integration-example)
+> [`sentry`](https://github.com/Webflow-Examples/hello-world-svelte-app/tree/sentry)
 > branch adds a working Sentry setup — browser + server logs on every request,
 > error capture, and a recurring ping endpoint — validated on the Cloudflare
 > Workers runtime Webflow Cloud uses. See its README for setup.
