@@ -58,7 +58,7 @@
         <a class="wf-btn wf-btn-primary" href="https://developers.webflow.com/webflow-cloud/storing-data/overview" target="_blank" rel="noreferrer">
           Read the bindings guide
         </a>
-        <a class="wf-btn wf-btn-ghost" href="https://github.com/Webflow-Examples/hello-world-svelte-app-bindings" target="_blank" rel="noreferrer">
+        <a class="wf-btn wf-btn-ghost" href="https://github.com/Webflow-Examples/hello-world-svelte-app/tree/sentry" target="_blank" rel="noreferrer">
           View on GitHub
         </a>
       </div>
