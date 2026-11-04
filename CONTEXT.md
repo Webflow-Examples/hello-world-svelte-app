@@ -1,4 +1,4 @@
-# CONTEXT — hello-world-svelte-app-bindings
+# CONTEXT — hello-world-svelte-app
 
 Orientation for contributors to this **Svelte 5 + Vite + bindings** Hello
 World example for [Webflow Cloud](https://developers.webflow.com/webflow-cloud).
